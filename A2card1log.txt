@@ -1,0 +1,62 @@
+[1mtrue.[0m
+
+[16]  ?- set_prolog_stack(global, limit(100 000 000 000)).
+
+
+[1mtrue.[0m
+
+[16]  ?- three_shuffle.
+
+
+total_iterations 10
+high_card_frequency 8  high_card_probability 80.0
+pair_frequency 1  pair_probability 10.0
+flush_frequency 0  flush_probability 0
+straight_frequency 1  straight_probability 10.0
+three_of_a_kind_frequency 0  three_of_a_kind_probability 0
+straight_flush_frequency 0  straight_flush_probability 0
+total_iterations 100
+high_card_frequency 72  high_card_probability 72.0
+pair_frequency 19  pair_probability 19.0
+flush_frequency 4  flush_probability 4.0
+straight_frequency 4  straight_probability 4.0
+three_of_a_kind_frequency 0  three_of_a_kind_probability 0
+straight_flush_frequency 1  straight_flush_probability 1.0
+total_iterations 1000
+high_card_frequency 740  high_card_probability 74.0
+pair_frequency 182  pair_probability 18.2
+flush_frequency 49  flush_probability 4.9
+straight_frequency 26  straight_probability 2.6
+three_of_a_kind_frequency 2  three_of_a_kind_probability 0.2
+straight_flush_frequency 1  straight_flush_probability 0.1
+total_iterations 10000
+high_card_frequency 7452  high_card_probability 74.52
+pair_frequency 1695  pair_probability 16.950000000000003
+flush_frequency 505  flush_probability 5.050000000000001
+straight_frequency 298  straight_probability 2.98
+three_of_a_kind_frequency 24  three_of_a_kind_probability 0.24
+straight_flush_frequency 26  straight_flush_probability 0.26
+total_iterations 100000
+high_card_frequency 74565  high_card_probability 74.565
+pair_frequency 16954  pair_probability 16.954
+flush_frequency 5018  flush_probability 5.018000000000001
+straight_frequency 3046  straight_probability 3.0460000000000003
+three_of_a_kind_frequency 226  three_of_a_kind_probability 0.22599999999999998
+straight_flush_frequency 191  straight_flush_probability 0.191
+[1mtrue [0m[1m.[0m
+
+[16]  ?- my_shuffle(22100).
+
+
+total_iterations 22100
+high_card_frequency 16463  high_card_probability 74.49321266968326
+pair_frequency 3782  pair_probability 17.1131221719457
+flush_frequency 1092  flush_probability 4.941176470588235
+straight_frequency 653  straight_probability 2.9547511312217196
+three_of_a_kind_frequency 55  three_of_a_kind_probability 0.24886877828054296
+straight_flush_frequency 55  straight_flush_probability 0.24886877828054296
+[1mtrue [0m[1m.[0m
+
+[16]  ?- noprotocol.
+
+

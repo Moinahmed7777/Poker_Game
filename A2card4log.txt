@@ -1,0 +1,23 @@
+[20]  ?- play3p.
+high_cardwinning_chance25.61[[10,spades],[jack,spades],[queen,diamonds],[6,hearts],[9,clubs]]high_card
+[[9,spades],[7,spades],[7,hearts],[7,clubs],[6,diamonds]]three_of_a_kind
+'win='[[9,spades],[7,spades],[7,hearts],[7,clubs],[6,diamonds]]
+true.
+
+[20]  ?- play3p.
+pairwinning_chance83.06[[6,hearts],[5,clubs],[10,spades],[10,diamonds],[8,diamonds]]pair
+[[queen,diamonds],[queen,spades],[4,diamonds],[10,clubs],[jack,diamonds]]pair
+'win='[[queen,diamonds],[queen,spades],[4,diamonds],[10,clubs],[jack,diamonds]]
+true.
+
+[20]  ?- play3p.
+pairwinning_chance83.06[[jack,clubs],[king,clubs],[10,spades],[8,diamonds],[king,diamonds]]pair
+[[jack,hearts],[5,clubs],[4,clubs],[jack,diamonds],[5,diamonds]]two_pair
+'win='[[jack,hearts],[5,clubs],[4,clubs],[jack,diamonds],[5,diamonds]]
+true.
+
+[20]  ?- play3p.
+high_cardwinning_chance25.61[[3,clubs],[7,clubs],[2,clubs],[king,clubs],[jack,hearts]]high_card
+[[2,hearts],[5,clubs],[jack,diamonds],[ace,hearts],[jack,clubs]]pair
+'win='[[2,hearts],[5,clubs],[jack,diamonds],[ace,hearts],[jack,clubs]]
+true.

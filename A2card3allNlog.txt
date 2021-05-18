@@ -1,0 +1,117 @@
+[19]  ?- n_task3.
+number_of_iteration_10
+             [0,0,0,0,0,0,0,0,0,0]  royal_flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  straight_flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  four_of_a_kind_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  full_house_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  straight_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  three_of_a_kind_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  two_pair_rowtotal  0
+             [0,0,0,0,0,0,1,0,1,4]  pair_rowtotal  6
+             [0,0,0,0,0,0,0,0,2,2]  high_card_rowtotal  4
+col_total[0,0,0,0,0,0,1,0,3,6]
+player1_win_table  [0,0,0,0,0,0,0,0,4,1]
+rf_frequency  0  rf_prob  0
+sf_frequency  0  sf_prob  0
+fk_frequency  0  fk_prob  0
+fh_frequency  0  fh_prob  0
+f_frequency  0  f_prob  0
+s_frequency  0  s_prob  0
+tk_frequency  0  tk_prob  0
+tp_frequency  0  tp_prob  0
+p_frequency  4  p_prob  80.0
+hc_frequency  1  hc_prob  20.0
+number_of_iteration_100
+             [0,0,0,0,0,0,0,0,0,0]  royal_flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  straight_flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  four_of_a_kind_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  full_house_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,1,0]  straight_rowtotal  1
+             [0,0,0,0,0,0,0,0,0,1]  three_of_a_kind_rowtotal  1
+             [0,0,0,0,0,0,0,0,2,4]  two_pair_rowtotal  6
+             [0,0,0,0,0,0,0,3,14,20]  pair_rowtotal  37
+             [0,0,0,0,0,0,2,2,19,32]  high_card_rowtotal  55
+col_total[0,0,0,0,0,0,2,5,36,57]
+player1_win_table  [0,0,0,0,0,1,1,6,27,17]
+rf_frequency  0  rf_prob  0
+sf_frequency  0  sf_prob  0
+fk_frequency  0  fk_prob  0
+fh_frequency  0  fh_prob  0
+f_frequency  0  f_prob  0
+s_frequency  1  s_prob  1.9230769230769231
+tk_frequency  1  tk_prob  1.9230769230769231
+tp_frequency  6  tp_prob  11.538461538461538
+p_frequency  27  p_prob  51.92307692307693
+hc_frequency  17  hc_prob  32.69230769230769
+number_of_iteration_1000
+             [0,0,0,0,0,0,0,0,0,0]  royal_flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  straight_flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,1]  four_of_a_kind_rowtotal  1
+             [0,0,0,0,0,0,0,0,0,2]  full_house_rowtotal  2
+             [0,0,0,0,0,0,0,0,2,0]  flush_rowtotal  2
+             [0,0,0,0,0,0,0,0,3,2]  straight_rowtotal  5
+             [0,0,0,0,0,0,0,0,16,9]  three_of_a_kind_rowtotal  25
+             [0,0,0,0,0,0,2,0,17,26]  two_pair_rowtotal  45
+             [0,0,0,2,0,0,7,20,182,214]  pair_rowtotal  425
+             [0,0,1,2,1,2,8,17,222,242]  high_card_rowtotal  495
+col_total[0,0,1,4,1,2,17,37,442,496]
+player1_win_table  [0,0,1,2,2,5,25,43,296,119]
+rf_frequency  0  rf_prob  0
+sf_frequency  0  sf_prob  0
+fk_frequency  1  fk_prob  0.2028397565922921
+fh_frequency  2  fh_prob  0.4056795131845842
+f_frequency  2  f_prob  0.4056795131845842
+s_frequency  5  s_prob  1.0141987829614605
+tk_frequency  25  tk_prob  5.070993914807302
+tp_frequency  43  tp_prob  8.72210953346856
+p_frequency  296  p_prob  60.04056795131846
+hc_frequency  119  hc_prob  24.137931034482758
+number_of_iteration_10000
+             [0,0,0,0,0,0,0,0,0,0]  royal_flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  straight_flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,2]  four_of_a_kind_rowtotal  2
+             [0,0,0,0,0,0,0,1,6,7]  full_house_rowtotal  14
+             [0,0,0,0,0,0,1,1,12,5]  flush_rowtotal  19
+             [0,0,0,0,0,0,0,1,9,11]  straight_rowtotal  21
+             [0,0,0,1,0,1,3,12,102,91]  three_of_a_kind_rowtotal  210
+             [0,0,0,1,1,0,9,19,183,233]  two_pair_rowtotal  446
+             [0,0,2,3,8,23,100,177,1665,1957]  pair_rowtotal  3935
+             [0,0,1,6,16,16,87,209,1934,2368]  high_card_rowtotal  4637
+col_total[0,0,3,11,25,40,200,420,3911,4674]
+player1_win_table  [0,0,2,14,19,21,207,430,2827,1183]
+rf_frequency  0  rf_prob  0
+sf_frequency  0  sf_prob  0
+fk_frequency  2  fk_prob  0.04252604720391239
+fh_frequency  14  fh_prob  0.2976823304273868
+f_frequency  19  f_prob  0.4039974484371677
+s_frequency  21  s_prob  0.4465234956410801
+tk_frequency  207  tk_prob  4.401445885604933
+tp_frequency  430  tp_prob  9.143100148841166
+p_frequency  2827  p_prob  60.11056772273017
+hc_frequency  1183  hc_prob  25.154156921114186
+number_of_iteration_100000
+             [0,0,0,0,0,0,0,0,0,0]  royal_flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,0,0]  straight_flush_rowtotal  0
+             [0,0,0,0,0,0,0,0,1,1]  four_of_a_kind_rowtotal  2
+             [0,0,0,0,0,0,0,0,2,2]  full_house_rowtotal  4
+             [0,0,0,0,0,0,0,1,0,2]  flush_rowtotal  3
+             [0,0,0,0,0,0,0,0,5,5]  straight_rowtotal  10
+             [0,0,0,0,0,1,1,2,11,21]  three_of_a_kind_rowtotal  36
+             [0,0,0,1,0,0,0,2,46,29]  two_pair_rowtotal  78
+             [0,0,0,0,0,4,22,33,300,359]  pair_rowtotal  718
+             [0,0,0,1,3,1,22,50,386,424]  high_card_rowtotal  887
+col_total[0,0,0,2,3,6,45,88,751,843]
+player1_win_table  [0,0,2,4,3,10,34,77,515,208]
+rf_frequency  0  rf_prob  0
+sf_frequency  0  sf_prob  0
+fk_frequency  2  fk_prob  0.23446658851113714
+fh_frequency  4  fh_prob  0.4689331770222743
+f_frequency  3  f_prob  0.3516998827667058
+s_frequency  10  s_prob  1.1723329425556859
+tk_frequency  34  tk_prob  3.985932004689332
+tp_frequency  77  tp_prob  9.026963657678781
+p_frequency  515  p_prob  60.375146541617816
+hc_frequency  208  hc_prob  24.384525205158265
+true .

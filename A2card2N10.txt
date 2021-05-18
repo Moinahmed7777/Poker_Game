@@ -1,0 +1,13 @@
+?- five_shuffle(10).
+total_iterations 10
+high_card_frequency 5  high_card_probability 50.0
+pair_frequency 4  pair_probability 40.0
+flush_frequency 0  flush_probability 0
+straight_frequency 0  straight_probability 0
+three_of_a_kind_frequency 0  three_of_a_kind_probability 0
+two_pair_frequency 1  two_pair_probability 10.0
+full_house_frequency 0  full_house_probability 0
+four_of_a_kind_frequency 0  four_of_a_kind_probability 0
+royal_flush_frequency 0  royal_flush_probability 0
+straight_flush_frequency 0  straight_flush_probability 0
+true .
